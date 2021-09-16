@@ -15,6 +15,7 @@ Find me around the web 😎:
 - 💼 Connecting and sharing professional updates at Slack, Discord or Social Media
 - 📌 Add me here at GitHub or on Linkedin: 
 <br> <a href="https://www.linkedin.com/in/annelisfuenmayor/"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Annelis Fuenmayor Linkedin Profile" height="30" width="30"> </a> </br>
+- 📩 If you are in a dev community or you want to collaborate with Get on Board, pls connect with me: annelis.fuenmayor@getonbrd.com
 
 
 PD: <b> This is my first time using GitHub with no programming knowledge😄 </b>
