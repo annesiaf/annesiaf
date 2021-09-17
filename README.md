@@ -9,7 +9,7 @@
 - 🥂 Go out for a drink and watch series based on a true story
 - 🧑‍💻 And for me is really important being part of the tech industry </br>
 
-😄 The people tell me #annerecomienda because I always have a cool piece of information as a recommendation. </br>
+😄 The people tell me #annerecomienda because I always have a cool piece of information as a recommendation </br>
 
 Find me around the web 😎:
 - 💼 Connecting and sharing professional updates at Slack, Discord or Social Media
