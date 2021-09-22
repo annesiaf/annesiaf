@@ -18,4 +18,4 @@ Find me around the web 😎:
 <br> <a href="https://www.linkedin.com/in/annelisfuenmayor/"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Annelis Fuenmayor Linkedin Profile" height="30" width="30"> </a> </br>
 
 
-PD: <b> This is my first time using GitHub with no programming knowledge😄 </b>
+PD: <b> This is my first time using GitHub with no programming knowledge😄</b>
