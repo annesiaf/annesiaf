@@ -4,10 +4,10 @@
 <br> 🎓 I have a Degree in Mass Communication with Public Relations and Publicity 
 <br> 💼 Working as a Head of Developer Relations at @Get on Board (https://www.getonbrd.com/) </br>
 <br> 🤟 Loving: 
-- 🎮 Play videogames (like Brawls Stars & Call of Duty)
-- 🍔 Eat delicious
-- 🥂 Go out for a drink and watch series based on a true story
-- 🧑‍💻 And for me is really important being part of the tech industry </br>
+- 🎮 Playing videogames (like Brawls Stars & Call of Duty)
+- 🍔 Eating delicious
+- 🥂 Going out for a drink and watch series based on a true story
+- 🧑‍💻 And for me it's really important being a part of the tech industry </br>
 
 😄 The people tell me #annerecomienda because I always have a cool piece of information as a recommendation </br>
 
